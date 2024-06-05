@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<!--    android:background="@color/black"-->
+
+    <TextView
+        android:id="@+id/welcome_title"
+        android:layout_width="234dp"
+        android:layout_height="100dp"
+        android:background="#003B2E57"
+        android:text="@string/text_welcome"
+        android:fontFamily="sans-serif-black"
+        android:textAlignment="center"
+        android:textColor="?attr/android:textColorPrimary"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.148" />
+
+    <Button
+        android:id="@+id/song_btn"
+        android:layout_width="299dp"
+        android:layout_height="56dp"
+        android:background="?attr/colorPrimary"
+        android:text="@string/btn_songs"
+        android:textColor="?attr/android:textColorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.57" />
+
+    <Button
+        android:id="@+id/playlist_btn"
+        android:layout_width="299dp"
+        android:layout_height="56dp"
+        android:background="?attr/colorPrimary"
+        android:text="@string/btn_playlist"
+        android:textColor="?attr/android:textColorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.425" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

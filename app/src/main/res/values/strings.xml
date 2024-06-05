@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Do-Playlist</string>
+    <string name="text_welcome">Welcome to Do-Playlist</string>
+    <string name="btn_songs">Songs</string>
+    <string name="btn_playlist">Playlists</string>
+</resources>
