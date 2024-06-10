@@ -11,11 +11,11 @@
     <color name="secondary_color_dark">#00BCD4</color>
     <color name="secondary_color">#00BCD4</color>
 
-    <color name="primary_color_text_dark">#000000</color>
+    <color name="primary_color_text_dark">#FFFFFF</color>
     <color name="primary_color_text">#000000</color>
 
-    <color name="secondary_color_text_dark">#5C5757</color>
-    <color name="secondary_color_text">#5C5757</color>
+    <color name="secondary_color_text_dark">#FFFFFF</color>
+    <color name="secondary_color_text">#000000</color>
 
     <color name="terciary_color_text_dark">#FFFFFF</color>
     <color name="terciary_color_text">#FFFFFF</color>

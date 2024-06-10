@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Delete</string>
+    <string name="add_song">Add Song</string>
+    <string name="create_playlist_title">Crea tu PlayList!!</string>
+    <string name="btn_ver_canciones">Ver Canciones</string>
+    <string name="btn_borra_playlist">Borra Playlist</string>
+    <string name="descripcion_titulo_main">titulo_main</string>
+    <string name="descripcion_boton_playlist">Boton Playlist</string>
+    <string name="descripcion_boton_cancion">Boton Cancion</string>
+    <string name="hint_descripcion_input">Descripcion de para su playlist</string>
+    <string name="text_crear_playlist_btn">Crear</string>
+    <string name="descripcion_titulo_crear_playlist">Titulo Crear Playlist</string>
+    <string name="actualizar_playlist_button">Actualizar</string>
+    <string name="nombre_text_verplaylist">Nombre :</string>
+    <string name="descripcion_text_base">Descripcion :</string>
+</resources>

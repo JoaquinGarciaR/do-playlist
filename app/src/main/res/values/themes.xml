@@ -2,15 +2,15 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Doplaylist" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="android:windowBackground">@color/background_color</item>
         <item name="colorPrimary">@color/primary_color</item>
         <item name="colorSecondary">@color/secondary_color</item>
         <item name="colorAccent">@color/accent_color</item>
         <item name="android:textColorPrimary">@color/primary_color_text</item>
-        <item name="android:textColorSecondary">@color/secondary_color_text</item>
+        <item name="android:textColorSecondary">#B15050</item>
         <item name="android:textColorTertiary">@color/terciary_color_text</item>
         <item name="android:windowActionBar">true</item>
+        <item name="android:fontFamily">@font/lobstar</item>
     </style>
 
     <style name="Theme.Doplaylist" parent="Base.Theme.Doplaylist" />

@@ -1,6 +1,29 @@
 <resources>
-    <string name="app_name">Do-Playlist</string>
-    <string name="text_welcome">Welcome to Do-Playlist</string>
-    <string name="btn_songs">Songs</string>
-    <string name="btn_playlist">Playlists</string>
+    <string name="app_name">!Do-Playlist</string>
+    <string name="toolbar_description">Barra de Herramientas</string>
+    <string name="text_welcome">Bienvenidos a !Do-Playlist</string>
+    <string name="btn_songs">Canciones</string>
+    <string name="btn_playlist">Listas</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="add_song">Add Song</string>
+    <string name="playlist_name_label">Como se llama tu lista?</string>
+    <string name="playlist_description_label">Como describirias tu playlist?</string>
+    <string name="create_playlist_title">Crea tu PlayList!!</string>
+    <string name="ver_playlist_title">Visualiza tu playlist</string>
+    <string name="btn_ver_canciones">Ver Canciones</string>
+    <string name="btn_borra_playlist">Borra Playlist</string>
+    <string name="descripcion_titulo_main">Titulo Principal</string>
+    <string name="descripcion_boton_playlist">Boton Playlist</string>
+    <string name="descripcion_boton_cancion">Boton Cancion</string>
+    <string name="descripcion_agregar_playlist_boton">Ir a crear playlist</string>
+    <string name="hint_descripcion_input">Inserte la descripcion de para su playlist</string>
+    <string name="hint_name_input">Inserte el nombre para su Playlist</string>
+    <string name="text_crear_playlist_btn">Crear</string>
+    <string name="descripcion_titulo_crear_playlist">Titulo Crear Playlist</string>
+    <string name="id_base">ID :</string>
+    <string name="actualizar_playlist_button">Actualizar</string>
+    <string name="nombre_text_verplaylist">Nombre :</string>
+    <string name="descripcion_text_base">Descripcion :</string>
 </resources>
